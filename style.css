@@ -1,0 +1,21 @@
+body{
+    background-image: url(imagens/bg-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: gainsboro;
+}
+.menu{
+    margin-left: 80%;
+    margin-top: 25px;
+    
+}
+.botao{
+    border: 1px solid;
+    color: white;
+    background-color: grey;
+    padding: 8px;
+}
+.topico{
+    margin: 2% 8%;
+    background-color: white;
+}
